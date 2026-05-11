@@ -4,3 +4,6 @@
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="200"/>
   <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/adventure/hiking.svg" width="200"/>
 </p>
+<p align="center">
+  <img src="https://go.dev/blog/gopher/gopher.png" width="200"/>
+</p>
