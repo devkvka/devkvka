@@ -1,1 +1,1 @@
-![I love Go](https://capsule-render.vercel.app/api?type=waving&text=I%20love%20Go&fontSize=50)!
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I%20love%20Go&fontColor=ffffff)
