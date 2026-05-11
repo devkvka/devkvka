@@ -6,4 +6,5 @@
 </p>
 <p align="center">
   <img src="https://go.dev/images/gophers/blue.svg" width="200"/>
+  <img src="https://go.dev/images/gophers/shopping-cart.png" width="200"/>
 </p>
